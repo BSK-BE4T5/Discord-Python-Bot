@@ -1,2 +1,5 @@
 #env files
 .env
+
+#not necesary stuff
+.txt
