@@ -1,5 +1,8 @@
-#env files
+#Ignore files related to API keys
 .env
 
-#not necesary stuff
+#Ignore all text files
 *.txt
+
+#ignore all executable files
+*.exe
