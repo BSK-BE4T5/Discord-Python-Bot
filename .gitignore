@@ -2,4 +2,4 @@
 .env
 
 #not necesary stuff
-.txt
+*.txt

@@ -7,8 +7,6 @@ from dotenv import load_dotenv
 
 cogs = [music]
 
-print(os.environ.get("TOKEN"))
-
 client = discord.Client()
 client = commands.Bot(command_prefix='+',intents = discord.Intents.all())
 
